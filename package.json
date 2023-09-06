@@ -1,0 +1,20 @@
+{
+  "name": "api_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:run": "cypress run --config-file ./environment/hml_cypress.config.js",
+    "cypress:open": "cypress open --config-file ./environment/hml_cypress.config.js",
+    "type": "commonjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.0.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "node-random-name": "^1.0.1"
+  }
+}
