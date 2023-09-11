@@ -4,9 +4,11 @@ import 'cypress-mochawesome-reporter/register';
 
 const Anime = require('../../support/payloads/animePayload')
 
+
 before(()=>{
 
 })
+
 
 
 describe('Cadastrar novo Anime com campos válidos', function(){

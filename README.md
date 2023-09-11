@@ -1,5 +1,5 @@
 Projeto API_AUTOMATION
-    Cenários básicos de automação da ap, link para download: https://github.com/BHAraujo/ApiAnime
+    Cenários básicos de automação da api, link para download: https://github.com/BHAraujo/ApiAnime
 
 Preparar o ambiente, Links para downloads:
   - Nodejs:
